@@ -1,0 +1,99 @@
+\begin{thebibliography}{10}
+
+\bibitem{chen2012visions}
+Fan Pen~Li Chen.
+\newblock Visions for the masses: Chinese shadow plays from shaanxi and shanxi.
+\newblock {\em Pacific Science}, 66(3), 2012.
+
+\bibitem{hog}
+Navneet Dalal and Bill Triggs.
+\newblock Histograms of oriented gradients for human detection.
+\newblock In {\em IEEE Computer Society Conference on Computer Vision and
+  Pattern Recognition}, volume~1, pages 886--893, 2005.
+
+\bibitem{efros2001image}
+Alexei~A Efros and William~T Freeman.
+\newblock Image quilting for texture synthesis and transfer.
+\newblock In {\em Proceedings of the 28th annual conference on Computer
+  graphics and interactive techniques}, pages 341--346. ACM, 2001.
+
+\bibitem{gomes1999warping}
+J.~Gomes.
+\newblock {\em Warping and morphing of graphical objects}, volume~1.
+\newblock Morgan Kaufmann, 1999.
+
+\bibitem{hormann2006mean}
+Kai Hormann and Michael~S Floater.
+\newblock Mean value coordinates for arbitrary planar polygons.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 25(4):1424--1441, 2006.
+
+\bibitem{hsu2005planning}
+Shu-Wei Hsu and Tsai-Yen Li.
+\newblock Planning character motions for shadow play animations.
+\newblock {\em Proc. CASA}, 5:184--190, 2005.
+
+\bibitem{leite2012shape}
+L.~Leite and V.~Orvalho.
+\newblock Shape your body: control a virtual silhouette using body motion.
+\newblock In {\em Proceedings of the 2012 ACM annual conference extended
+  abstracts on Human Factors in Computing Systems Extended Abstracts}, pages
+  1913--1918, 2012.
+
+\bibitem{lin2012action}
+Shih-Yao Lin, Chuen-Kai Shie, Shen-Chi Chen, and Yi-Ping Hung.
+\newblock Action recognition for human-marionette interaction.
+\newblock In {\em Proceedings of the 20th ACM international conference on
+  Multimedia}, pages 39--48. ACM, 2012.
+
+\bibitem{lu2011shadowstory}
+F.~Lu, F.~Tian, Y.~Jiang, X.~Cao, W.~Luo, G.~Li, X.~Zhang, G.~Dai, and H.~Wang.
+\newblock Shadowstory: creative and collaborative digital storytelling inspired
+  by cultural heritage.
+\newblock In {\em Proceedings of the 2011 annual conference on Human factors in
+  computing systems}, pages 1919--1928, 2011.
+
+\bibitem{nagamine19923d}
+Takashi Nagamine, Tetsuya Uemura, and Isao Masuda.
+\newblock 3d facial image analysis for human identification.
+\newblock In {\em Pattern Recognition, 1992. Vol. I. Conference A: Computer
+  Vision and Applications, Proceedings., 11th IAPR International Conference
+  on}, pages 324--327. IEEE, 1992.
+
+\bibitem{pan20033d}
+Gang Pan, Yijun Wu, Zhaohui Wu, and Wenyao Liu.
+\newblock 3d face recognition by profile and surface matching.
+\newblock In {\em Neural Networks, 2003. Proceedings of the International Joint
+  Conference on}, volume~3, pages 2169--2174. IEEE, 2003.
+
+\bibitem{pan2011sketch}
+Junjun Pan and Jian Zhang.
+\newblock Sketch-based skeleton-driven 2d animation and motion capture.
+\newblock {\em Transactions on edutainment VI}, pages 164--181, 2011.
+
+\bibitem{sturman1998state}
+David Sturman.
+\newblock The state of computer animation.
+\newblock {\em Computer Graphics-New York-Association For Computing Machinery},
+  32:57--61, 1998.
+
+\bibitem{tan2010real}
+KL~Tan, AZ~Talib, and MA~Osman.
+\newblock Real-time simulation and interactive animation of shadow play puppets
+  using opengl.
+\newblock {\em International Journal of IJCIE}, 4:1--8, 2010.
+
+\bibitem{winnemoller2011xdog}
+Holger Winnem{\"o}ller.
+\newblock Xdog: advanced image stylization with extended
+  difference-of-gaussians.
+\newblock In {\em Proceedings of the ACM SIGGRAPH/Eurographics Symposium on
+  Non-Photorealistic Animation and Rendering}, pages 147--156, 2011.
+
+\bibitem{zhang2012chinese}
+Hui Zhang, Yuhao Song, Zhuo Chen, Ji~Cai, and Ke~Lu.
+\newblock Chinese shadow puppetry with an interactive interface using the
+  kinect sensor.
+\newblock In {\em Computer Vision--ECCV 2012. Workshops and Demonstrations},
+  pages 352--361. Springer, 2012.
+
+\end{thebibliography}

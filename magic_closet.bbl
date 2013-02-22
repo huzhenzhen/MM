@@ -1,0 +1,139 @@
+\begin{thebibliography}{10}
+
+\bibitem{LBP}
+T.~Ahonen, A.~Hadid, and M.~Pietikainen.
+\newblock Face description with local binary patterns: Application to face
+  recognition.
+\newblock {\em TPAMI}, 2006.
+
+\bibitem{fashionatribute}
+T.~Berg, A.~Berg, and J.~Shih.
+\newblock Automatic attribute discovery and characterization from noisy web
+  data.
+\newblock In {\em ECCV}, 2010.
+
+\bibitem{iccvbest}
+M.K. Berkowitz and G.H. Haines~Jr.
+\newblock Relative attributes.
+\newblock In {\em ICCV}, 2011.
+
+\bibitem{poselet}
+L.~Bourdev, S.~Maji, T.~Brox, and J.~Malik.
+\newblock Detecting people using mutually consistent poselet activations.
+\newblock In {\em ECCV}, 2010.
+
+\bibitem{malik}
+L.~Bourdev, S.~Maji, and J.~Malik.
+\newblock Describing people: A poselet-based approach to attribute
+  classification.
+\newblock In {\em ICCV}, 2011.
+
+\bibitem{mirror}
+C.~Cheng, M.~Chung, M.~Yu, M.~Ouhyoung, H.~Chu, and Y.~Chuang.
+\newblock Chromirror: a real-time interactive mirror for chromatic and
+  color-harmonic dressing.
+\newblock In {\em CHI}, 2008.
+
+\bibitem{colorharmonization}
+D.~Cohen-Or, O.~Sorkine, R.~Gal, T.~Leyvand, and Y.~Xu.
+\newblock Color harmonization.
+\newblock In {\em SIGGRAPH}, 2006.
+
+\bibitem{HOG}
+N.~Dalal and B.~Triggs.
+\newblock Histograms of oriented gradients for human detection.
+\newblock In {\em CVPR}, 2005.
+
+\bibitem{cutting_plane}
+T.~Do and T.~Arti{\`e}res.
+\newblock Large margin training for hidden markov models with partially
+  observed states.
+\newblock In {\em ICML}, 2009.
+
+\bibitem{attribute1}
+A.~Farhadi, I.~Endres, D.~Hoiem, and D.~Forsyth.
+\newblock Describing objects by their attributes.
+\newblock In {\em CVPR}, 2009.
+
+\bibitem{latentSVM}
+P.~Felzenszwalb, D.~McAllester, and D.~Ramanan.
+\newblock A discriminatively trained, multiscale, deformable part model.
+\newblock In {\em CVPR}, 2008.
+
+\bibitem{ndcg}
+R.~Feris and L.~Davis.
+\newblock Image ranking and retrieval based on multi-attribute queries.
+\newblock In {\em CVPR}, 2011.
+
+\bibitem{yukai}
+D.~Gray, K.~Yu, W.~Xu, and Y.~Gong.
+\newblock Predicting facial beauty without landmarks.
+\newblock In {\em ECCV}, 2010.
+
+\bibitem{segmentbmvc}
+B.~Hasan and D.~Hogg.
+\newblock Segmentation using deformable spatial priors with application to
+  clothing.
+\newblock In {\em BMVC}, 2010.
+
+\bibitem{FashionCoordinates}
+T.~Iwata, S.~Wanatabe, and H.~Sawada.
+\newblock Fashion coordinates recommender system using photographs from fashion
+  magazines.
+\newblock In {\em IJCAI}, 2011.
+
+\bibitem{attribute2}
+C.~Lampert, H.~Nickisch, and S.~Harmeling.
+\newblock Learning to detect unseen object classes by between-class attribute
+  transfer.
+\newblock In {\em CVPR}, 2009.
+
+\bibitem{li2011news}
+Z.~Li, M.~Wang, J.~Liu, C.~Xu, and H.~Lu.
+\newblock News contextualization with geographic and visual information.
+\newblock In {\em MM}, 2011.
+
+\bibitem{ni2009web}
+B.~Ni, Z.~Song, and S.~Yan.
+\newblock Web image mining towards universal age estimator.
+\newblock In {\em ACM MM}, 2009.
+
+\bibitem{mypaper}
+Liu S., Song Z., Liu G.C., Xu~C.S., Lu~H.Q., and Yan S.C.
+\newblock Street-to-shop: Cross-scenario clothing retrieval via parts alignment
+  and auxiliary set.
+\newblock In {\em CVPR}, 2012.
+
+\bibitem{whattowear}
+E.~Shen, H.~Lieberman, and F.~Lam.
+\newblock What am i gonna wear?: scenario-oriented recommendation.
+\newblock In {\em IUI}, 2007.
+
+\bibitem{zheng}
+Z.~Song, M.~Wang, X.~Hua, and S.~Yan.
+\newblock Predicting occupation via human clothing and contexts.
+\newblock In {\em ICCV}, 2011.
+
+\bibitem{structured_SVM}
+I.~Tsochantaridis, T.~Joachims, T.~Hofmann, and Y.~Altun.
+\newblock Large margin methods for structured and interdependent output
+  variables.
+\newblock {\em JMLR}, 2006.
+
+\bibitem{wang2009max}
+Y.~Wang and G.~Mori.
+\newblock Max-margin hidden conditional random fields for human action
+  recognition.
+\newblock In {\em CVPR}, 2009.
+
+\bibitem{wang2010discriminative}
+Y.~Wang and G.~Mori.
+\newblock A discriminative latent model of object classes and attributes.
+\newblock In {\em ECCV}, 2010.
+
+\bibitem{YangR_CVPR_2011}
+Y.~Yang and D.~Ramanan.
+\newblock Articulated pose estimation with flexible mixtures-of-parts.
+\newblock In {\em CVPR}, 2011.
+
+\end{thebibliography}
