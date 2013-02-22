@@ -255,6 +255,20 @@ In shadow puppetry play, there is a lot of vivid props, including architecture, 
 
 \section{Puppetry API:  Manipulator}
 
+\subsection{Manipulator}
+
+Traditional Chinese shadow puppet is created by hinging together nine parts: head, body, left/right arm, left/right hand, lower body, front foot and rear foot, although there are variants replacing lower body with two upper legs, the nine-part design dominates. In a real puppet show, each puppet is controlled by three stick manipulators, the major manipulator is attached to neck, clipping together head and body. The other two manipulators each hinges to one hand. Based on this control model, shadow puppets has their own distinguished pattern of motion. In this section, we describe a system that is able to animate shadow puppet in their own style learned from real world puppet shows.
+
+\begin{figure}[t]
+\begin{center}
+\includegraphics[scale=0.35]{figure/framework.pdf}
+\caption{\small{degrees of freedom}}
+\label{fig:degreeoffreedom}
+\end{center}
+\end{figure}
+
+\subsection{Control Model}
+In our system we adopt the nine-part puppet design, each puppet character consists of nine parts, seven joints and in total 12 degrees of freedom (DOF), as depicted in figure~\ref{fig:degreeoffreedom}. 
 
 
 
@@ -372,7 +386,6 @@ Totally, 40 participants (15 females and 25 males who are students and staff mem
 \end{figure}
 
 
-\subsection{Manipulator}
 
 
 %In this section, we first analyze the learned model, and then introduce two experiments specifically designed to evaluate the effectiveness of our model in two applications, \emph{i.e.}, clothing recommendation and clothing pairing.

@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.2.7)  22 FEB 2013 17:20
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.2.17)  22 FEB 2013 19:30
 entering extended mode
 **puppetry.tex
-(C:\Users\A0104018\Desktop\mm\puppetry.tex
+(C:\Users\linmin\Documents\GitHub\MM\puppetry.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\A0104018\Desktop\mm\sig-alternate.cls
+(C:\Users\linmin\Documents\GitHub\MM\sig-alternate.cls
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 
@@ -195,11 +195,11 @@ LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\t1aer.fd"
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
 )))
-(C:\Users\A0104018\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorithm.st
-y
+(C:\Users\linmin\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count109
 \float@exts=\toks36
@@ -213,8 +213,8 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 \@float@every@algorithm=\toks38
 \c@algorithm=\count110
 )
-(C:\Users\A0104018\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorithmic.
-sty
+(C:\Users\linmin\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorithmic.st
+y
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \c@ALC@unique=\count111
 \c@ALC@line=\count112
@@ -223,7 +223,7 @@ Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \ALC@tlm=\skip44
 \algorithmicindent=\skip45
 )
-(C:\Users\A0104018\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.sty
+(C:\Users\linmin\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.sty
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigtopskip=\skip46
 \subfigcapskip=\skip47
@@ -235,12 +235,11 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \c@lofdepth=\count116
 \c@subtable=\count117
 \c@lotdepth=\count118
+
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-
-(C:\Users\A0104018\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.cfg
-)
+(C:\Users\linmin\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.cfg)
 \subfig@top=\skip50
 \subfig@bottom=\skip51
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
@@ -250,7 +249,7 @@ Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
 \bigstrutjot=\dimen125
 )
-(C:\Users\A0104018\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+(C:\Users\linmin\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
@@ -259,7 +258,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 Package xcolor Info: Package option `usenames' ignored on input line 216.
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(C:\Users\A0104018\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+(C:\Users\linmin\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
@@ -291,7 +290,7 @@ File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
 LaTeX Warning: Unused global option(s):
     [letter].
 
-(C:\Users\A0104018\Desktop\mm\puppetry.aux
+(C:\Users\linmin\Documents\GitHub\MM\puppetry.aux
 
 LaTeX Warning: Label `fig:firstfig' multiply defined.
 
@@ -326,7 +325,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
- (C:\Users\A0104018\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+ (C:\Users\linmin\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count120
 \scratchdimen=\dimen128
@@ -384,10 +383,10 @@ Overfull \hbox (1.03316pt too wide) in paragraph at lines 88--90
 
 Underfull \vbox (badness 4913) has occurred while \output is active []
 
- [1{C:/Users/A0104018/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+ [1{C:/Users/linmin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
- <C:/Users/A0104018/Desktop/mm/figure/SyetemIntro.pdf>]
+ <C:/Users/linmin/Documents/GitHub/MM/figure/SyetemIntro.pdf>]
 <figure/puppetru_introduction.pdf, id=30, 476.86356pt x 526.62402pt>
 File: figure/puppetru_introduction.pdf Graphic file (type pdf)
 
@@ -413,8 +412,8 @@ Overfull \hbox (3.12119pt too wide) in paragraph at lines 152--153
 nly
  []
 
-[2 <C:/Users/A0104018/Desktop/mm/figure/puppetru_introduction.pdf> <C:/Users/A0
-104018/Desktop/mm/figure/framework.pdf>]
+[2 <C:/Users/linmin/Documents/GitHub/MM/figure/puppetru_introduction.pdf> <C:/U
+sers/linmin/Documents/GitHub/MM/figure/framework.pdf>]
 <figure/eyewarping.pdf, id=73, 670.57184pt x 497.59682pt>
 File: figure/eyewarping.pdf Graphic file (type pdf)
 
@@ -428,46 +427,50 @@ File: figure/profile_abstract.pdf Graphic file (type pdf)
 <use figure/profile_abstract.pdf>
 Package pdftex.def Info: figure/profile_abstract.pdf used on input line 209.
 (pdftex.def)             Requested size: 212.01372pt x 72.6852pt.
- [3 <C:/Users/A0104018/Desktop/mm/figure/eyewarping.pdf> <C:/Users/A0104018/Des
-ktop/mm/figure/profile_abstract.pdf>]
-<figure/TextureTransfer.pdf, id=112, 631.47496pt x 472.12546pt>
+ [3 <C:/Users/linmin/Documents/GitHub/MM/figure/eyewarping.pdf> <C:/Users/linmi
+n/Documents/GitHub/MM/figure/profile_abstract.pdf>] <figure/TextureTransfer.pdf
+, id=112, 631.47496pt x 472.12546pt>
 File: figure/TextureTransfer.pdf Graphic file (type pdf)
 
 <use figure/TextureTransfer.pdf>
 Package pdftex.def Info: figure/TextureTransfer.pdf used on input line 244.
 (pdftex.def)             Requested size: 189.44394pt x 141.63872pt.
+File: figure/framework.pdf Graphic file (type pdf)
+ <use figure/framework.pdf>
+Package pdftex.def Info: figure/framework.pdf used on input line 264.
+(pdftex.def)             Requested size: 250.87344pt x 266.21631pt.
+
+Overfull \hbox (10.87344pt too wide) in paragraph at lines 264--265
+ [] 
+ []
 
 <figure/result_example.pdf, id=113, 324.03058pt x 486.93417pt>
 File: figure/result_example.pdf Graphic file (type pdf)
 
 <use figure/result_example.pdf>
-Package pdftex.def Info: figure/result_example.pdf used on input line 345.
+Package pdftex.def Info: figure/result_example.pdf used on input line 359.
 (pdftex.def)             Requested size: 129.60992pt x 194.77022pt.
 
 <figure/baseline2.pdf, id=114, 580.52963pt x 355.42696pt>
 File: figure/baseline2.pdf Graphic file (type pdf)
 
 <use figure/baseline2.pdf>
-Package pdftex.def Info: figure/baseline2.pdf used on input line 368.
+Package pdftex.def Info: figure/baseline2.pdf used on input line 382.
 (pdftex.def)             Requested size: 203.18842pt x 124.40129pt.
- (C:\Users\A0104018\Desktop\mm\puppetry.bbl [4 <C:/Users/A0104018/Desktop/mm/fi
-gure/TextureTransfer.pdf> <C:/Users/A0104018/Desktop/mm/figure/result_example.p
-df> <C:/Users/A0104018/Desktop/mm/figure/baseline2.pdf
-
-pdfTeX warning: pdflatex.exe (file C:/Users/A0104018/Desktop/mm/figure/baseline
-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->]) [5
-
-] (C:\Users\A0104018\Desktop\mm\puppetry.aux)
+ (C:\Users\linmin\Documents\GitHub\MM\puppetry.bbl
+[4 <C:/Users/linmin/Documents/GitHub/MM/figure/TextureTransfer.pdf>]) [5 <C:/Us
+ers/linmin/Documents/GitHub/MM/figure/result_example.pdf> <C:/Users/linmin/Docu
+ments/GitHub/MM/figure/baseline2.pdf>]
+(C:\Users\linmin\Documents\GitHub\MM\puppetry.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3653 strings out of 493921
- 45323 string characters out of 3144868
- 111752 words of memory out of 3000000
- 6834 multiletter control sequences out of 15000+200000
+ 3654 strings out of 493921
+ 45383 string characters out of 3144873
+ 111760 words of memory out of 3000000
+ 6835 multiletter control sequences out of 15000+200000
  59428 words of font info for 88 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  41i,15n,35p,813b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -488,9 +491,9 @@ public/amsfonts/cm/cmtt8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw
 c/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pf
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progr
 am Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on puppetry.pdf (5 pages, 1437679 bytes).
+Output written on puppetry.pdf (5 pages, 1438856 bytes).
 PDF statistics:
- 202 PDF objects out of 1000 (max. 8388607)
+ 203 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
