@@ -126,6 +126,11 @@ Thumbs.db
 # Folder config file
 Desktop.ini
 
+# Latex
+*.aux
+*.log
+*.gz
+*.dvi
 
 #############
 ## Python
