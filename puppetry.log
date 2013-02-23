@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.2.17)  22 FEB 2013 19:30
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.2.17)  22 FEB 2013 22:31
 entering extended mode
 **puppetry.tex
 (C:\Users\linmin\Documents\GitHub\MM\puppetry.tex
@@ -437,40 +437,46 @@ Package pdftex.def Info: figure/TextureTransfer.pdf used on input line 244.
 (pdftex.def)             Requested size: 189.44394pt x 141.63872pt.
 File: figure/framework.pdf Graphic file (type pdf)
  <use figure/framework.pdf>
-Package pdftex.def Info: figure/framework.pdf used on input line 264.
+Package pdftex.def Info: figure/framework.pdf used on input line 263.
 (pdftex.def)             Requested size: 250.87344pt x 266.21631pt.
 
-Overfull \hbox (10.87344pt too wide) in paragraph at lines 264--265
+Overfull \hbox (10.87344pt too wide) in paragraph at lines 263--264
  [] 
  []
 
-<figure/result_example.pdf, id=113, 324.03058pt x 486.93417pt>
+[4 <C:/Users/linmin/Documents/GitHub/MM/figure/TextureTransfer.pdf>]
+Overfull \hbox (174.16367pt too wide) in paragraph at lines 291--299
+ [][] 
+ []
+
+<figure/result_example.pdf, id=132, 324.03058pt x 486.93417pt>
 File: figure/result_example.pdf Graphic file (type pdf)
 
 <use figure/result_example.pdf>
-Package pdftex.def Info: figure/result_example.pdf used on input line 359.
+Package pdftex.def Info: figure/result_example.pdf used on input line 364.
 (pdftex.def)             Requested size: 129.60992pt x 194.77022pt.
 
-<figure/baseline2.pdf, id=114, 580.52963pt x 355.42696pt>
+<figure/baseline2.pdf, id=133, 580.52963pt x 355.42696pt>
 File: figure/baseline2.pdf Graphic file (type pdf)
 
 <use figure/baseline2.pdf>
-Package pdftex.def Info: figure/baseline2.pdf used on input line 382.
+Package pdftex.def Info: figure/baseline2.pdf used on input line 387.
 (pdftex.def)             Requested size: 203.18842pt x 124.40129pt.
  (C:\Users\linmin\Documents\GitHub\MM\puppetry.bbl
-[4 <C:/Users/linmin/Documents/GitHub/MM/figure/TextureTransfer.pdf>]) [5 <C:/Us
-ers/linmin/Documents/GitHub/MM/figure/result_example.pdf> <C:/Users/linmin/Docu
-ments/GitHub/MM/figure/baseline2.pdf>]
+[5 <C:/Users/linmin/Documents/GitHub/MM/figure/result_example.pdf> <C:/Users/li
+nmin/Documents/GitHub/MM/figure/baseline2.pdf>]) [6
+
+]
 (C:\Users\linmin\Documents\GitHub\MM\puppetry.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3654 strings out of 493921
- 45383 string characters out of 3144873
- 111760 words of memory out of 3000000
- 6835 multiletter control sequences out of 15000+200000
+ 3657 strings out of 493921
+ 45424 string characters out of 3144873
+ 111768 words of memory out of 3000000
+ 6838 multiletter control sequences out of 15000+200000
  59428 words of font info for 88 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  41i,15n,35p,813b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -491,9 +497,9 @@ public/amsfonts/cm/cmtt8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw
 c/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pf
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progr
 am Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on puppetry.pdf (5 pages, 1438856 bytes).
+Output written on puppetry.pdf (6 pages, 1445909 bytes).
 PDF statistics:
- 203 PDF objects out of 1000 (max. 8388607)
+ 206 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
